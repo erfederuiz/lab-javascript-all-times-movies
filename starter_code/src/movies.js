@@ -145,4 +145,5 @@ function bestYearAvg(moviesArray){
             return (`The best year was ${bestYear} with an average rate of ${bestRate}`);
            
     }
-}
+
+
